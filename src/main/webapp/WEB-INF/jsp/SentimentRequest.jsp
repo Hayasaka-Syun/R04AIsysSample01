@@ -8,6 +8,9 @@
 </head>
 
 <body>
+<header>
+<a href="./languageRequest"></a>
+</header>
 <h1>CognitiveService(Sentiment)を使うサイト</h1>
 
 <h3>調べたい文字列を教えてください</h3>
